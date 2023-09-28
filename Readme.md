@@ -1,4 +1,4 @@
-# Simple demo of imgui_test_engine in combination with hello_imgui
+# Demo of imgui_test_engine in combination with hello_imgui
 
 
 ## Minimal code to run the test engine
@@ -65,7 +65,8 @@ This repository does not provide any submodule, you need to clone them manually.
 git clone https://github.com/pthom/hello_imgui.git -b with_imgui_test_engine # on branch with_imgui_test_engine
 
 # Optional: 
-# HelloImGui provides imgui / imgui_test_engine as submodules in hello_imgui/external/ but we can use our own versions
+# HelloImGui provides imgui / imgui_test_engine as submodules in hello_imgui/external/ 
+# but we can use our own versions
 #
 # git clone https://github.com/ocornut/imgui.git -b docking  # on branch docking
 # git clone https://github.com/ocornut/imgui_test_engine.git
