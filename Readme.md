@@ -82,7 +82,7 @@ the lines
 ```
 
 Then build:
-```
+```bash
 mkdir build 
 cd build
 cmake ..
